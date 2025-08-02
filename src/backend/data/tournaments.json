@@ -1,3 +1,41 @@
 [
-    { "id": "1", "name": "Summer 2025", "format": "single", "teams": [], "sponsors": [] }
+    {
+        "_id": "64f000000000000000001001",
+        "name": "Summer Cup 2025",
+        "format": "round",
+        "description": "Giải đấu mùa hè",
+        "avatarUrl": "",
+        "gameName": "",
+        "numberOfPlayers": 0,
+        "maxPlayers": 0,
+        "startDate": "2025-06-01T00:00:00.000Z",
+        "endDate": "2025-06-15T00:00:00.000Z",
+        "status": "upcoming"
+    },
+    {
+        "_id": "64f000000000000000001002",
+        "name": "Winter Clash",
+        "format": "single",
+        "description": "Giải đấu mùa đông",
+        "avatarUrl": "",
+        "gameName": "",
+        "numberOfPlayers": 0,
+        "maxPlayers": 0,
+        "startDate": "2025-12-01T00:00:00.000Z",
+        "endDate": "2025-12-10T00:00:00.000Z",
+        "status": "upcoming"
+    },
+    {
+        "_id": "64f000000000000000001003",
+        "name": "Demo Cup 2025",
+        "format": "single",
+        "description": "Giải đấu seed mặc định",
+        "avatarUrl": "",
+        "gameName": "",
+        "numberOfPlayers": 0,
+        "maxPlayers": 0,
+        "startDate": "2025-08-01T00:00:00.000Z",
+        "endDate": "2025-08-10T00:00:00.000Z",
+        "status": "upcoming"
+    }
 ]

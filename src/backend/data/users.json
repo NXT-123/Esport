@@ -1,3 +1,18 @@
 [
-    { "id": "1", "name": "John Doe", "email": "john@example.com" }
+    {
+        "_id": "640001",
+        "email": "admin@example.com",
+        "passwordHash": "$2b$10$u5uHKsKXN84b54i8.X2NruAwW7jGqZzGZkUKUo35OAGyNr5CyTjO6",
+        "role": "admin",
+        "fullName": "Admin User",
+        "avatarUrl": ""
+    },
+    {
+        "_id": "640002",
+        "email": "organizer@example.com",
+        "passwordHash": "$2b$10$xQvFPM2KGmQYEZvL8hi3aOSFySg30gZQXj8ROfO7SJLjjR30I2Vw6",
+        "role": "organizer",
+        "fullName": "Demo Organizer",
+        "avatarUrl": ""
+    }
 ]
