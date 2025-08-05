@@ -1,62 +1,303 @@
 [
     {
-        "name": "Alpha",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001001"
+        "name": "Team Flash",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001001",
+        "rank": 1,
+        "points": 1500,
+        "wins": 12,
+        "losses": 3,
+        "region": "Việt Nam",
+        "captain": "Lê Văn Player",
+        "members": [
+            "640003",
+            "640004",
+            "640006"
+        ],
+        "status": "active"
     },
     {
-        "name": "Bravo",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001001"
+        "name": "Saigon Phantom",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001001",
+        "rank": 2,
+        "points": 1450,
+        "wins": 11,
+        "losses": 4,
+        "region": "TP.HCM",
+        "captain": "Đặng Văn Champion",
+        "members": [
+            "640007",
+            "640008"
+        ],
+        "status": "active"
     },
     {
-        "name": "Charlie",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001001"
+        "name": "MZ Gaming",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001001",
+        "rank": 3,
+        "points": 1400,
+        "wins": 10,
+        "losses": 5,
+        "region": "Hà Nội",
+        "captain": "Bùi Thị Legend",
+        "members": [
+            "640010"
+        ],
+        "status": "active"
     },
     {
-        "name": "Delta",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001001"
+        "name": "Vikings Gaming",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001001",
+        "rank": 4,
+        "points": 1350,
+        "wins": 9,
+        "losses": 6,
+        "region": "Đà Nẵng",
+        "captain": "Ngô Thị Streamer",
+        "members": [],
+        "status": "active"
     },
     {
         "name": "Ice Wolves",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001002"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001002",
+        "rank": 1,
+        "points": 1200,
+        "wins": 8,
+        "losses": 2,
+        "region": "Hà Nội",
+        "captain": "Lê Văn Player",
+        "members": [
+            "640003"
+        ],
+        "status": "active"
     },
     {
         "name": "Snow Foxes",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001002"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001002",
+        "rank": 2,
+        "points": 1150,
+        "wins": 7,
+        "losses": 3,
+        "region": "TP.HCM",
+        "captain": "Phạm Thị Gamer",
+        "members": [
+            "640004"
+        ],
+        "status": "active"
     },
     {
         "name": "Frost Giants",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001002"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001002",
+        "rank": 3,
+        "points": 1100,
+        "wins": 6,
+        "losses": 4,
+        "region": "Đà Nẵng",
+        "captain": "Vũ Thị Pro",
+        "members": [
+            "640006"
+        ],
+        "status": "active"
     },
     {
         "name": "Blizzard",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001002"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001002",
+        "rank": 4,
+        "points": 1050,
+        "wins": 5,
+        "losses": 5,
+        "region": "Hà Nội",
+        "captain": "Đặng Văn Champion",
+        "members": [
+            "640007"
+        ],
+        "status": "active"
     },
     {
         "name": "Team X",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001003"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001003",
+        "rank": 1,
+        "points": 1800,
+        "wins": 15,
+        "losses": 2,
+        "region": "TP.HCM",
+        "captain": "Ngô Thị Streamer",
+        "members": [
+            "640008"
+        ],
+        "status": "active"
     },
     {
         "name": "Team Y",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001003"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001003",
+        "rank": 2,
+        "points": 1750,
+        "wins": 14,
+        "losses": 3,
+        "region": "Hà Nội",
+        "captain": "Bùi Thị Legend",
+        "members": [
+            "640010"
+        ],
+        "status": "active"
     },
     {
         "name": "Team Z",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001003"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001003",
+        "rank": 3,
+        "points": 1700,
+        "wins": 13,
+        "losses": 4,
+        "region": "Đà Nẵng",
+        "captain": "Lê Văn Player",
+        "members": [
+            "640003"
+        ],
+        "status": "active"
     },
     {
         "name": "Team W",
-        "logoUrl": "",
-        "tournamentId": "64f000000000000000001003"
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001003",
+        "rank": 4,
+        "points": 1650,
+        "wins": 12,
+        "losses": 5,
+        "region": "TP.HCM",
+        "captain": "Phạm Thị Gamer",
+        "members": [
+            "640004"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Dragon Warriors",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001004",
+        "rank": 1,
+        "points": 2000,
+        "wins": 18,
+        "losses": 1,
+        "region": "Hà Nội",
+        "captain": "Vũ Thị Pro",
+        "members": [
+            "640006"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Phoenix Rising",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001004",
+        "rank": 2,
+        "points": 1950,
+        "wins": 17,
+        "losses": 2,
+        "region": "TP.HCM",
+        "captain": "Đặng Văn Champion",
+        "members": [
+            "640007"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Thunder Storm",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001004",
+        "rank": 3,
+        "points": 1900,
+        "wins": 16,
+        "losses": 3,
+        "region": "Đà Nẵng",
+        "captain": "Ngô Thị Streamer",
+        "members": [
+            "640008"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Shadow Hunters",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001004",
+        "rank": 4,
+        "points": 1850,
+        "wins": 15,
+        "losses": 4,
+        "region": "Hà Nội",
+        "captain": "Bùi Thị Legend",
+        "members": [
+            "640010"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Fire Birds",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001005",
+        "rank": 1,
+        "points": 1600,
+        "wins": 20,
+        "losses": 5,
+        "region": "TP.HCM",
+        "captain": "Lê Văn Player",
+        "members": [
+            "640003"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Water Serpents",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001005",
+        "rank": 2,
+        "points": 1550,
+        "wins": 19,
+        "losses": 6,
+        "region": "Hà Nội",
+        "captain": "Phạm Thị Gamer",
+        "members": [
+            "640004"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Earth Titans",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001005",
+        "rank": 3,
+        "points": 1500,
+        "wins": 18,
+        "losses": 7,
+        "region": "Đà Nẵng",
+        "captain": "Vũ Thị Pro",
+        "members": [
+            "640006"
+        ],
+        "status": "active"
+    },
+    {
+        "name": "Wind Riders",
+        "logoUrl": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=150&h=150&fit=crop",
+        "tournamentId": "64f000000000000000001005",
+        "rank": 4,
+        "points": 1450,
+        "wins": 17,
+        "losses": 8,
+        "region": "TP.HCM",
+        "captain": "Đặng Văn Champion",
+        "members": [
+            "640007"
+        ],
+        "status": "active"
     }
 ]

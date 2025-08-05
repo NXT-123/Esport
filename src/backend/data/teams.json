@@ -1,3 +1,264 @@
 [
-    { "id": "1", "name": "Team A", "logo": "", "members": [] }
+    {
+        "id": "team001",
+        "name": "Team Flash",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển hàng đầu Việt Nam với nhiều thành tích xuất sắc trong các giải đấu quốc tế.",
+        "members": [
+            "640003",
+            "640004",
+            "640006"
+        ],
+        "captain": "640003",
+        "game": "Mobile Legends",
+        "region": "Việt Nam",
+        "sponsors": [
+            "VNG",
+            "Garena"
+        ],
+        "achievements": [
+            "Vô địch MPL Season 1",
+            "Top 4 World Championship 2024"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/teamflash",
+            "youtube": "https://youtube.com/teamflash",
+            "instagram": "https://instagram.com/teamflash"
+        },
+        "createdAt": "2020-01-01T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team002",
+        "name": "Saigon Phantom",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển trẻ với nhiều tài năng mới nổi trong làng game Việt Nam.",
+        "members": [
+            "640007",
+            "640008"
+        ],
+        "captain": "640007",
+        "game": "League of Legends",
+        "region": "TP.HCM",
+        "sponsors": [
+            "FPT",
+            "Viettel"
+        ],
+        "achievements": [
+            "Á quân VCS Spring 2024",
+            "Top 8 SEA Championship"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/saigonphantom",
+            "youtube": "https://youtube.com/saigonphantom",
+            "instagram": "https://instagram.com/saigonphantom"
+        },
+        "createdAt": "2021-03-15T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team003",
+        "name": "MZ Gaming",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển chuyên nghiệp với kinh nghiệm dày dặn trong các giải đấu Counter-Strike.",
+        "members": [
+            "640010"
+        ],
+        "captain": "640010",
+        "game": "Counter-Strike 2",
+        "region": "Hà Nội",
+        "sponsors": [
+            "Logitech",
+            "SteelSeries"
+        ],
+        "achievements": [
+            "Vô địch Vietnam Championship 2024",
+            "Top 16 Asia Championship"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/mzgaming",
+            "youtube": "https://youtube.com/mzgaming",
+            "instagram": "https://instagram.com/mzgaming"
+        },
+        "createdAt": "2019-06-20T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team004",
+        "name": "Vikings Gaming",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển mạnh trong các game MOBA với phong cách chơi tấn công mạnh mẽ.",
+        "members": [],
+        "captain": null,
+        "game": "Dota 2",
+        "region": "Đà Nẵng",
+        "sponsors": [
+            "Razer",
+            "Corsair"
+        ],
+        "achievements": [
+            "Top 4 Vietnam Championship 2024"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/vikingsgaming",
+            "youtube": "https://youtube.com/vikingsgaming",
+            "instagram": "https://instagram.com/vikingsgaming"
+        },
+        "createdAt": "2022-01-10T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team005",
+        "name": "EVOS Esports",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển quốc tế với nhiều thành viên từ các quốc gia khác nhau.",
+        "members": [],
+        "captain": null,
+        "game": "Valorant",
+        "region": "Indonesia",
+        "sponsors": [
+            "EVOS",
+            "Shopee"
+        ],
+        "achievements": [
+            "Vô địch SEA Championship 2024",
+            "Top 8 World Championship"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/evosesports",
+            "youtube": "https://youtube.com/evosesports",
+            "instagram": "https://instagram.com/evosesports"
+        },
+        "createdAt": "2018-09-01T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team006",
+        "name": "RRQ Hoshi",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển hàng đầu Indonesia với nhiều thành tích xuất sắc.",
+        "members": [],
+        "captain": null,
+        "game": "Mobile Legends",
+        "region": "Indonesia",
+        "sponsors": [
+            "RRQ",
+            "Tokopedia"
+        ],
+        "achievements": [
+            "Vô địch MPL Indonesia Season 8",
+            "Top 4 World Championship"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/rrqhoshi",
+            "youtube": "https://youtube.com/rrqhoshi",
+            "instagram": "https://instagram.com/rrqhoshi"
+        },
+        "createdAt": "2017-12-01T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team007",
+        "name": "Fnatic",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển quốc tế nổi tiếng với nhiều thành tích xuất sắc trên toàn thế giới.",
+        "members": [],
+        "captain": null,
+        "game": "League of Legends",
+        "region": "Châu Âu",
+        "sponsors": [
+            "Fnatic",
+            "BMW",
+            "Monster Energy"
+        ],
+        "achievements": [
+            "Vô địch LEC 2024",
+            "Top 4 World Championship 2024"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/fnatic",
+            "youtube": "https://youtube.com/fnatic",
+            "instagram": "https://instagram.com/fnatic"
+        },
+        "createdAt": "2004-07-23T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team008",
+        "name": "Team Liquid",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển Bắc Mỹ với nhiều thành tích xuất sắc trong các game khác nhau.",
+        "members": [],
+        "captain": null,
+        "game": "Dota 2",
+        "region": "Bắc Mỹ",
+        "sponsors": [
+            "Team Liquid",
+            "Alienware",
+            "Monster Energy"
+        ],
+        "achievements": [
+            "Vô địch The International 2017",
+            "Top 3 The International 2024"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/teamliquid",
+            "youtube": "https://youtube.com/teamliquid",
+            "instagram": "https://instagram.com/teamliquid"
+        },
+        "createdAt": "2000-03-01T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team009",
+        "name": "Cloud9",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển Bắc Mỹ nổi tiếng với nhiều tài năng trẻ.",
+        "members": [],
+        "captain": null,
+        "game": "Valorant",
+        "region": "Bắc Mỹ",
+        "sponsors": [
+            "Cloud9",
+            "BMW",
+            "Red Bull"
+        ],
+        "achievements": [
+            "Vô địch VCT Champions 2024",
+            "Top 2 VCT Masters"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/cloud9",
+            "youtube": "https://youtube.com/cloud9",
+            "instagram": "https://instagram.com/cloud9"
+        },
+        "createdAt": "2013-01-01T00:00:00Z",
+        "isActive": true
+    },
+    {
+        "id": "team010",
+        "name": "T1",
+        "logo": "https://images.unsplash.com/photo-1542751371-adc38448a05e?w=200&h=200&fit=crop",
+        "description": "Đội tuyển Hàn Quốc với nhiều thành tích xuất sắc trong League of Legends.",
+        "members": [],
+        "captain": null,
+        "game": "League of Legends",
+        "region": "Hàn Quốc",
+        "sponsors": [
+            "T1",
+            "Samsung",
+            "Nike"
+        ],
+        "achievements": [
+            "Vô địch World Championship 2023",
+            "Vô địch LCK Spring 2024"
+        ],
+        "socialMedia": {
+            "facebook": "https://facebook.com/t1esports",
+            "youtube": "https://youtube.com/t1esports",
+            "instagram": "https://instagram.com/t1esports"
+        },
+        "createdAt": "2004-01-01T00:00:00Z",
+        "isActive": true
+    }
 ]
